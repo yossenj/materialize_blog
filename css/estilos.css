@@ -1,0 +1,16 @@
+.bg-1{
+	background: url('../images/food3.jpg') fixed;
+}
+.bg-2 {
+    background: #fefefe;
+}
+.padding-0{
+	padding: 0!important
+}
+.padding-3{
+	padding: 1em;
+}
+p {
+    font-size: 11px;
+    text-align: justify;
+}
